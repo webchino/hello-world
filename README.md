@@ -1,2 +1,2 @@
 # hello-world
-My first reposiroty
+Learning about github so i can use it in our project rinconchileno app.  
